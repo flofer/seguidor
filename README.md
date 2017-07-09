@@ -1,3 +1,3 @@
 # seguidor
 Uno de los muchos seguidores de lineas.....
-Es mi primer repositorio y seguramente tendrá muchos errores... espero tener capacidad suficiente para aprender un poco más
+Es mi primer repositorio y seguramente tendrá muchos errores... espero tener capacidad suficiente para aprender un poco más.
